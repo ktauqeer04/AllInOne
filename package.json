@@ -1,0 +1,19 @@
+{
+  "name": "newapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "esm": "*",
+    "express": "^4.21.2"
+  },
+  "private": true,
+  "type": "module"
+}
